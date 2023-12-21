@@ -8,6 +8,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2897127572023195475, guid: d1355f2fc3880df4a8f3a14782c6bf49, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3961063584223362692, guid: d1355f2fc3880df4a8f3a14782c6bf49, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5.7455273
@@ -55,6 +59,10 @@ PrefabInstance:
     - target: {fileID: 3961063584223362702, guid: d1355f2fc3880df4a8f3a14782c6bf49, type: 3}
       propertyPath: avatarUrl
       value: https://models.readyplayer.me/655ffe0be0834c9ab369fa90.glb
+      objectReference: {fileID: 0}
+    - target: {fileID: 8475587948025427859, guid: d1355f2fc3880df4a8f3a14782c6bf49, type: 3}
+      propertyPath: m_UpdateMode
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

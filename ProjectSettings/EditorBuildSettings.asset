@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/Scenes/GameMenu.unity
     guid: fe76d68d65e71e743a180bdf7f258831
   - enabled: 1
-    path: Assets/Scenes/GamePlay.unity
+    path: Assets/Environment/tes gameplay.unity
     guid: 425be15db966deb4095e14e656a02c03
   - enabled: 1
     path: Assets/Scenes/CutScene.unity
